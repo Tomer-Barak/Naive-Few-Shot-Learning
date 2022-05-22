@@ -1,1 +1,1 @@
-# Naive-Few-Shot-Learning
+# Naive Few-Shot Learning
